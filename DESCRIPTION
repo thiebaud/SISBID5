@@ -1,0 +1,11 @@
+Package: wip1
+Type: Package
+Title: Analysis of wip1 Patterns in TumorPortal Data
+Version: 0.1
+Date: 2015-07-20
+Author: Sara Thiebaud
+Maintainer: Sara Thiebaud <sara.e.thiebaud@gmail.com>
+Description: Pulls data from TumorPortal and analyzes wip1 expression in different cancer types.
+License: GPL-3
+LazyData: TRUE
+Imports: markdown
